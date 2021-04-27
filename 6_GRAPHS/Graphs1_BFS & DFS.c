@@ -2,6 +2,8 @@
 
 #include <stdio.h>
 #include "Queue_forGraphs.h"
+//BFS
+
 void BFS(int G[][7],int start,int n)
 {
     int i=start,j;
@@ -25,7 +27,7 @@ void BFS(int G[][7],int start,int n)
         }
     }
 }
-
+//DFS
 void DFS(int G[][7],int start,int n)
 {
     static int visited[n]={0};
