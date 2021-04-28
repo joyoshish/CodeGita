@@ -67,7 +67,7 @@ node* constructTreeUtil( int pre[], int* preIndex, int key,
 
 	return root;
 }
-
+//construct
 // The main function to construct BST
 // from given preorder traversal.
 // This function mainly uses constructTreeUtil()
