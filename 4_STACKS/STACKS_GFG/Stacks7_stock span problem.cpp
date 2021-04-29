@@ -55,3 +55,5 @@ int main()
 
 	return 0;
 }
+
+//stock span end
