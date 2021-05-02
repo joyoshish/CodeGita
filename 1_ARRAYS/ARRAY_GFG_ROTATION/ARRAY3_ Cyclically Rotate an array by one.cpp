@@ -3,7 +3,7 @@
 // an array by one
 # include <iostream>
 using namespace std;
-
+//cyclic rotation
 void rotate(int arr[], int n)
 {
 	int x = arr[n - 1], i;
