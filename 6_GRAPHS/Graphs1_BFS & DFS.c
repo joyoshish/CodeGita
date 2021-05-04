@@ -46,7 +46,7 @@ void DFS(int G[][7],int start,int n)
         }
     }
 }
-
+//driver
 int main()
 {
 int G[7][7]={{0,0,0,0,0,0,0},
