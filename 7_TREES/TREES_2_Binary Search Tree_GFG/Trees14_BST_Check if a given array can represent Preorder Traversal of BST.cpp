@@ -4,6 +4,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+//BST representation
 bool canRepresentBST(int pre[], int n)
 {
 	// Create an empty stack
