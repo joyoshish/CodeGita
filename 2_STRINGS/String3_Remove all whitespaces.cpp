@@ -1,4 +1,4 @@
-/* 1. Write a program to remove all whitespaces in a given string. */
+//Removing whitespaces
 
 #include<iostream>
 #include<string.h>
