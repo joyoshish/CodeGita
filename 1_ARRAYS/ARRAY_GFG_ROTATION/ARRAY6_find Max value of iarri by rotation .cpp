@@ -42,6 +42,10 @@ int main(void)
 	return 0;
 }
 
+
+//Pivot usage
+
+
 /*
 // C++ program to find maximum sum of all
 // rotation of i*arr[i] using pivot.
