@@ -72,7 +72,7 @@ void LRUCache::display()
 	cout << endl;
 }
 
-// Driver Code
+//tested
 int main()
 {
 	LRUCache ca(4);
