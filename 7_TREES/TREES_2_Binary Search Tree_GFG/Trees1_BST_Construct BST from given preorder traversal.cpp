@@ -25,6 +25,7 @@ node* newNode (int data)
 	return temp;
 }
 
+//checked
 // A recursive function to construct
 // BST from pre[]. preIndex is used
 // to keep track of index in pre[].
