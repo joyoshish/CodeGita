@@ -1,4 +1,6 @@
 /* Program to implement a stack using two queue */
+
+//checked
 #include <bits/stdc++.h>
 
 using namespace std;
