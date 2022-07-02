@@ -9,7 +9,7 @@ class Node
         Node *next;
 };
 
-class Stack
+class Stack 
 {
     private:
         Node *top;
